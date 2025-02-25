@@ -1,6 +1,6 @@
 A React-based Password Manager application that allows users to store, view, search, and manage their saved passwords securely.
 
-Features
+Features:
 
 Users can add passwords by providing a website, username, and password.
 
