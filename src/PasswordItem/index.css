@@ -1,0 +1,48 @@
+.list-item {
+  border: 1px solid #9ba9eb;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.website-icon {
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  margin-right: 10px;
+  
+}
+.first-color {
+  background-color: #0b69ff;
+}
+.second-color {
+  background-color: #f59e0b;
+}
+.third-color {
+  background-color: #f97316;
+}
+.fourth-color {
+  background-color: #b91c1c;
+}
+.details-container {
+  color: #ffffff;
+  font-weight: bold;
+  width: 120px;
+}
+.delete-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.delete-img {
+  width: 40px;
+}
+.stars {
+  width: 100px;
+}
